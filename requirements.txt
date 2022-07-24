@@ -1,0 +1,7 @@
+fastapi
+gunicorn
+sklearn
+python-dotenv
+uvicorn
+boto3
+pypyr
