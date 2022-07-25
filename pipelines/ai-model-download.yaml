@@ -4,7 +4,7 @@ steps:
     comment: set some arbitrary values in context
     in:
       contextSetf:
-        local_destination_dir: model
+        local_destination_dir: models
         file_keys: [
             'rf_east.pkl', 
             'rf_west.pkl', 
