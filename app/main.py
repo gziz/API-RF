@@ -1,7 +1,7 @@
 from pydantic import BaseModel
 from typing import List, Dict, Optional
 from fastapi import FastAPI
-import ml
+from . import ml
 
 
 app = FastAPI()
