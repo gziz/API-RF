@@ -1,7 +1,6 @@
 context_parser: pypyr.parser.keyvaluepairs
 steps:
   - name: pypyr.steps.contextsetf
-    comment: set some arbitrary values in context
     in:
       contextSetf:
         local_destination_dir: models
