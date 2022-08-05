@@ -1,13 +1,14 @@
 # ML Model Microservice
 ## Random Forest Deployment
 
-Deploy the application to a VM
+Deploy the application as a microservice with a VM.
+
 Steps:
 * Clone the repository
 ```
 git clone https://github.com/gziz/API-RF.git .
 ```
-* Manually add the env file
+* Manually add the .env file
 
 * Build the docker file
 ```
